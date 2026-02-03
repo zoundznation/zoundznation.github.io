@@ -6,6 +6,13 @@
     --muted: #9a9aa8;
 }
 
+.header {
+  background-image: url('logo.png');
+  background-size: contain;
+  width: 100px;
+  height: 50px;
+}   
+
 * {
     margin: 0;
     padding: 0;
@@ -1179,4 +1186,5 @@ footer {
     .nav-links a {
         font-size: 0.9rem;
     }
+
 }
